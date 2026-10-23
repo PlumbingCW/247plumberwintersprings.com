@@ -1,0 +1,2 @@
+# No redirects needed. Cloudflare Pages serves slug/index.html folder routes natively.
+# Leave this file as comments only. Never add 200 rewrites or slash-forcing rules.
